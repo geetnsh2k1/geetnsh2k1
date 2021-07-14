@@ -29,12 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetnsh2k1&show_icons=true&locale=en" alt="geetnsh2k1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetnsh2k1&" alt="geetnsh2k1" /></p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetnsh2k1" alt="geetnsh2k1" /></a> </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=b40e19&style=plastic" alt="geetnsh2k1" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetnsh2k1" alt="geetnsh2k1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=b40e19&style=flat" alt="geetnsh2k1" /> </p>
 
 <br>
+  
+![](https://media.giphy.com/media/26BkNnO2qmCWTQuac/giphy.gif)
 
-<div style="width:100%;height:0;padding-bottom:118%;position:relative;"><iframe src="https://giphy.com/embed/26BkNnO2qmCWTQuac" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-blob-lisa-vertudaches-26BkNnO2qmCWTQuac">via GIPHY</a></p>
