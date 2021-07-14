@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **geetansh2k1@gmail.com**
 
-- 📄 Know about my experiences [https://geetansh2k1.herokuapp.com/](https://geetansh2k1.herokuapp.com/)
+- 📄 Know about my me [https://geetansh2k1.herokuapp.com/](https://geetansh2k1.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetnsh2k1" alt="geetnsh2k1" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=b40e19&style=flat" alt="geetnsh2k1" /> </p>
-
-<br>
-  
-![](https://media.giphy.com/media/26BkNnO2qmCWTQuac/giphy.gif)
 
