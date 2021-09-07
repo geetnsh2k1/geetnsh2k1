@@ -31,11 +31,13 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/geetnsh2k1"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=geetnsh2k1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?   username=geetnsh2k1&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
+
+---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=b40e19&style=plastic" alt="geetnsh2k1" /> </p>
+
+---
