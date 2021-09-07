@@ -38,6 +38,4 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=b40e19&style=plastic" alt="geetnsh2k1" /> </p>
-
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=ffcc29&style=plastic" alt="geetnsh2k1" /> </p>
