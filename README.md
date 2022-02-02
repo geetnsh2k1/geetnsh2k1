@@ -35,11 +35,9 @@
 
 <div>
   <img  height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=geetnsh2k1&count_private=true&include_all_commits=true&theme=gruvbox" />
-</div>
-<br />
-<div>
+  <br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetnsh2k1&layout=compact&theme=gruvbox" />
 </div>
-  
+
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=ffcc29&style=plastic" alt="geetnsh2k1" /> </p>
