@@ -36,7 +36,9 @@
 <div>
   <img  height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=geetnsh2k1&count_private=true&include_all_commits=true&theme=gruvbox" />
 </div>
+
 ---
+
 <div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetnsh2k1&layout=compact&theme=gruvbox" />
 </div>
