@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Geetansh Garg</h1>
 <h3 align="center">Serving a feast of vibrant grids.</h3>
 
-- 🌱 I’m currently learning **everything🤣.**
+- 🌱 I’m currently learning **about survival.**
 
-- 💬 Ask me about **Django, Python, JavaScript, C/C++**
+- 💬 Ask me about **Django, Python, JavaScript, C/C++, Breaking Bad(Hehe)**
 
 - 📫 How to reach me **geetansh2k1@gmail.com**
 
