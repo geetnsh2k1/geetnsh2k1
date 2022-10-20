@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Geetansh Garg</h1>
+<h1 align="center">Hi 👋, I'm Geetansh Garg</h1>
 <h3 align="center">Serving a feast of vibrant grids.</h3>
 
 - 🌱 I’m currently learning **about survival.**
@@ -40,9 +40,9 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=ffcc29&style=plastic" alt="geetnsh2k1" /> </p>
- -->
+
  
- # Hi, I'm Monica 👋🏾 👩🏾‍💻
+<!--  # Hi, I'm Monica 👋🏾 👩🏾‍💻
 
 <img src="https://media.giphy.com/media/WAog0bhwPT5ZYJpWSW/giphy.mp4" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 <iframe src="https://giphy.com/embed/WAog0bhwPT5ZYJpWSW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WAog0bhwPT5ZYJpWSW">via GIPHY</a></p>
@@ -52,5 +52,5 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 -->
  
