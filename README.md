@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Geetansh Garg</h1>
 <h3 align="center">Serving a feast of vibrant grids.</h3>
 
+![Landing Page-1](/Geetansh Garg.gif)
+
 - 🌱 I’m currently learning **about survival.**
 
 - 💬 Ask me about **Django, Python, JavaScript, C/C++, Breaking Bad(Hehe)**
