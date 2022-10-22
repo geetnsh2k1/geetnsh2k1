@@ -1,6 +1,20 @@
-<h1 align = "center">Hi, I'm Geetansh 👋 👩🏾‍💻</h1>
+<!-- <h1 align = "center">Hi, I'm Geetansh 👋 👩🏾‍💻</h1> -->
 
-<img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg%20(2).gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<p align="center">
+  <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg%20(2).gif" alt="banner that says Geetansh Garg - software developer">
+</p>
+
+<h3 align="center">
+  Hi there, I'm Geetansh 👋 👩
+</h3>
+
+<h2 align="center">
+Serving a feast of vibrant grids✨
+</h2> 
+
+I am team player who love to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
+
+---
 
 - 🌱 I’m currently learning **about survival.**
 
@@ -39,8 +53,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetnsh2k1&layout=compact&theme=gruvbox" />
 </div>
 
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=ffcc29&style=plastic" alt="geetnsh2k1" /> </p>
+<!-- --- -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=geetnsh2k1&label=Profile%20views&color=ffcc29&style=plastic" alt="geetnsh2k1" /> </p> -->
 
  
 <!--  # Hi, I'm Monica 👋🏾 👩🏾‍💻
