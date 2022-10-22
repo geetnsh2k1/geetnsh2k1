@@ -21,7 +21,7 @@
 - 📕 Check out my [Leetcode](https://leetcode.com/garggeetansh011/) Profile
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/geetansh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geetansh garg" height="30" width="40" /></a>
 <a href="https://kaggle.com/geetansh2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="geetansh2k1" height="30" width="40" /></a>
 <a href="https://fb.com/geetansh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geetansh garg" height="30" width="40" /></a>
