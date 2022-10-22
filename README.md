@@ -5,8 +5,10 @@
 </p>
 
 <h3 align="center">
-I'm team player who love to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
+  I'm team player who ❤ to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
 </h3> 
+
+## 🔭 Featured
 
 - 🌱 I’m currently learning **about survival.**
 
