@@ -4,10 +4,6 @@
   <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg%20(2).gif" alt="banner that says Geetansh Garg - software developer">
 </p>
 
-<p align="center">
-  <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Profile.gif" alt="banner that says Geetansh Garg - software developer">
-</p>
-
 <h5 align="center">
   I'm team player who ❤ to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
 </h5> 
