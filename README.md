@@ -1,4 +1,4 @@
-# Hi, I'm Geetansh 👋 👩🏾‍💻
+<h1 align = "center">Hi, I'm Geetansh 👋 👩🏾‍💻</h1>
 
 <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
