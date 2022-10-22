@@ -20,6 +20,7 @@
 
 - 📕 Check out my [Leetcode](https://leetcode.com/garggeetansh011/) Profile
 
+## Profiles
 <p align="center">
   <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Profile.gif" alt="banner that says Geetansh Garg - software developer">
 </p>
