@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://geetansh2k1.herokuapp.com/)
 
-- 📕 Check out my Leetcode Profile [https://leetcode.com/garggeetansh011/](https://leetcode.com/garggeetansh011/)
+- 📕 Check out my [Leetcode](https://leetcode.com/garggeetansh011/) Profile
 
 ## Connect with me:
 <p align="left">
