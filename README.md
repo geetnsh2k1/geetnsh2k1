@@ -5,16 +5,14 @@
 </p>
 
 <h3 align="center">
-  Hi there, I'm Geetansh 👋 👩
+  Hi there, I'm Geetansh 👋 
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 Serving a feast of vibrant grids✨
-</h2> 
+</h3> 
 
 I am team player who love to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
-
----
 
 - 🌱 I’m currently learning **about survival.**
 
