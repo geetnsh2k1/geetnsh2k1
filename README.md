@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **geetansh2k1@gmail.com**
 
-- 📄 Know about my experiences [https://geetansh2k1.herokuapp.com/](https://geetansh2k1.herokuapp.com/)
+- 📄 Know about my experiences [Portfolio](https://geetansh2k1.herokuapp.com/)
 
 - 📕 Check out my Leetcode Profile [https://leetcode.com/garggeetansh011/](https://leetcode.com/garggeetansh011/)
 
