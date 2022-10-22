@@ -4,11 +4,9 @@
   <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg%20(2).gif" alt="banner that says Geetansh Garg - software developer">
 </p>
 
-<h2 align="center">
-Serving a feast of vibrant grids✨
-</h2> 
-
-I am team player who love to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
+<h3 align="center">
+I'm team player who love to lead the team from front with a strong foundation in logic building, web development and core programming concepts.
+</h3> 
 
 - 🌱 I’m currently learning **about survival.**
 
