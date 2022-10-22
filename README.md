@@ -1,6 +1,10 @@
 <h1 align = "center">Hi, I'm Geetansh 👋 👩🏾‍💻</h1>
 
 <p align="center">
+  <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Profile.gif" alt="banner that says Geetansh Garg - software developer">
+</p>
+
+<p align="center">
   <img src="https://github.com/geetnsh2k1/geetnsh2k1/blob/main/Geetansh%20Garg%20(2).gif" alt="banner that says Geetansh Garg - software developer">
 </p>
 
